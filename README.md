@@ -2,11 +2,11 @@
 
 ## Overview
 
-Most document translation captures interpretative meaning rather than a word-for-word & individually adaptive translation.
+Most document translation is done by interpretative meaning rather than word-for-word translation.
 
-If we allow a reader to set a vocabulary level, then show words easier than this in the target language and harder than this in English, this allows a reader to read **at their level**. Imagine reading Les Mis fluidly in 20% French rather than entirely in French and looking up every other word. Once a reader is comfortable with a level, they can increase it.
+However, literal translation is useful for learning a language. If we allow a reader to set a vocabulary level, then show words easier than this in the target language and harder than this in English, we allow them to read **at their level**. Imagine reading Les Mis fluidly in 20% French rather than entirely in French and looking up every other word. Once a reader is comfortable with a level, they can increase it.
 
-Additionally, literal translation preserves grammatical structure. The translation to English may look strange, for example "I have ten years", but this is syntactically illuminatin for those who want a deeper understanding of the language.
+Additionally, literal translation preserves grammatical structure. The translation to English may look strange, for example "I have ten years", but this familiarizes a reader with the new grammar.
 
 Files for translating and determining vocabulary level are deliberately omitted.
 
