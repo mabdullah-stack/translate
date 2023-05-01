@@ -2,9 +2,9 @@
 
 ## Overview
 
-Most document translation captures the meaning of sentences rather than translates word-for-word.
+Most document translation captures interpretative meaning rather than a word-for-word translation.
 
-However, word-for-word translation can be useful for learning a language. If we allow a reader to set a vocabulary level, then show words easier than this in the target language and harder than this in English, this allows a reader to read **at their level**. Imagine reading Les Mis fluidly in 20% French rather than entirely in French and looking up every other word. Once a reader is comfortable with a level, they can increase it.
+However, literal translation is syntactically illuminating. If we allow a reader to set a vocabulary level, then show words easier than this in the target language and harder than this in English, this allows a reader to read **at their level**. Imagine reading Les Mis fluidly in 20% French rather than entirely in French and looking up every other word. Once a reader is comfortable with a level, they can increase it.
 
 An added benefit of word-for-word translation is that it preserves grammatical structure. The translation to English may look strange, for example "I have ten years", but this is valuable for understanding the language.
 
