@@ -1,3 +1,5 @@
+trill - brill - thrill - yo mama
+
 # Translate
 
 ## Overview
@@ -15,3 +17,4 @@ Files for translating and determining vocabulary level are deliberately omitted.
 Text is from The Little Prince in French.
 
 https://user-images.githubusercontent.com/67289464/235453177-b8d7875e-317c-4512-8bc1-b922f970016e.mov
+
